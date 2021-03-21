@@ -34,25 +34,21 @@ Now check out the [**Commands**](#commands) section for the complete list of com
 
 -   `/help` - Get a concise explanation of all the commands.
 
--   `/follow` - Follow the GitHub user & get updates.
+-   `/follow` - Follow the GitHub user(s) & get updates.
 
 ```
-/follow @<vaild-github-username>, @<...>, @<...>
-
 // ---- for example ----
 /follow @dhyeythumar, @Sentdex, @sindresorhus
 ```
 
--   `/unfollow` - Unfollow the GitHub users and, you won't get any further updates for that user.
+-   `/unfollow` - Unfollow the GitHub user(s) and, you won't get any further updates for that user(s).
 
 ```
-/unfollow @<github-username-which-you-are-following>, @<...>
-
 // ---- for example ----
 /unfollow @dhyeythumar, @Sentdex, @sindresorhus
 ```
 
--   `/followList` - Get the list of GitHub users you are following.
+-   `/followList` - Get the list of GitHub user(s) you are following.
 
 -   `/disconnect` - Disconnect the service and clear the chats from the bot end.
 
