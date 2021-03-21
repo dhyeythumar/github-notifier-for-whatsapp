@@ -1,3 +1,6 @@
+<p align="center">
+    <img alt="logo" src="./assets/github_octocat.svg" width="160"/>
+</p>
 <h1 align="center">
 GitHub User Activity Feed Bot for WhatsApp
 </h1>
