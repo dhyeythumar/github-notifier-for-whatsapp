@@ -14,5 +14,5 @@ We primarily use GitHub as an issue tracker; for usage and support questions, pl
 
 ---
 
--   Documentation: https://github.com/Dhyeythumar/github-user-activity-feed-bot#readme
--   Discussions: https://github.com/Dhyeythumar/github-user-activity-feed-bot/discussions
+-   Documentation: https://github.com/dhyeythumar/github-user-activity-feeds-for-whatsapp#readme
+-   Discussions: https://github.com/dhyeythumar/github-user-activity-feeds-for-whatsapp/discussions
