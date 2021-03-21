@@ -3,7 +3,7 @@
 Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
 
 -   **To improve the documentation:** Submit a pull request
--   **For bug report:** Open an issue
+-   **For a bug report:** Open an issue
 -   **For a feature request:** Open an issue
 
 ## Pull Requests
@@ -15,11 +15,11 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 
 ## Report issues using GitHub's issues
 
-> Report a bug/feature by [opening a new issue](https://github.com/dhyeythumar/github-user-activity-feed-bot/issues/new/choose); it's that easy!
+> Report a bug/feature by [opening a new issue](https://github.com/dhyeythumar/github-user-activity-feeds-for-whatsapp/issues/new/choose); it's that easy!
 
-### Bug Reports
+### Bug Report
 
-**Great Bug Reports** tend to have:
+**Great Bug Report** tend to have:
 
 -   A quick summary and/or background
 -   Steps to reproduce
