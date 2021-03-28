@@ -26,7 +26,7 @@ If you want to follow your favorite GitHub User & want to stay updated with thei
 
 ## Getting Started
 
-To get started, click the following link [**Message**](https://wa.me/message/BUYCLFXGSVI2F1) or can also enter the below URL in to your browser `https://wa.me/message/BUYCLFXGSVI2F1`
+To get started, click the following link [**Message**](https://wa.me/message/P6OA32I7W3XKG1) or can also enter the below URL in to your browser `https://wa.me/message/P6OA32I7W3XKG1`
 
 Now check out the [**Commands**](#commands) section for the complete list of commands and their detailed explanation.
 
