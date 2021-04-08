@@ -57,6 +57,7 @@ Now check out the [**Commands**](#commands) section for the complete list of com
 > This section contains the list of features that are scheduled for the next release.
 
 -   Command to clear the history from the bot side.
+-   Take actions when messages/commands went unread (due to offline/sleep-mode of service 😴) so user do not have to resend the messages/commands.
 
 ## Support the project
 
