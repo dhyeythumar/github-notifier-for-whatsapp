@@ -48,7 +48,7 @@ Now check out the [**Commands**](#commands) section for the complete list of com
 /unfollow @dhyeythumar, @Sentdex, @sindresorhus
 ```
 
--   `/followList` - Get the list of GitHub user(s) you are following.
+-   `/following` - Get the list of GitHub user(s) you are following.
 
 -   `/disconnect` - Disconnect the service and clear the chats from the bot end.
 
