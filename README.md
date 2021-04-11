@@ -73,3 +73,5 @@ Contributions are welcome! ✌
 ## License
 
 Licensed under the [MIT License](./LICENSE).
+
+![visitors](https://page-views.glitch.me/badge?page_id=dhyeythumar.github-user-activity-feeds-for-whatsapp)
