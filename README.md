@@ -52,11 +52,12 @@ Now check out the [**Commands**](#commands) section for the complete list of com
 
 -   `/disconnect` - Disconnect the service and clear the chats from the bot end.
 
+-   `/clear` - Command to clear the history from the bot side.
+
 ## Future Development
 
 > This section contains the list of features that are scheduled for future release.
 
--   Command to clear the history from the bot side.
 -   Take actions when messages/commands went unread (due to offline/sleep-mode of service 😴) so users do not have to resend the messages/commands.
 -   Watch command for GitHub repos (this includes releases, tags & commits made to that particular repo).
 
