@@ -9,6 +9,8 @@ GitHub User Activity Feeds for WhatsApp
 Follow GitHub Users & get regular updates regarding those user's GitHub public activities right in your WhatsApp.
 </h4>
 
+>   Note: For now, I have only kept the 1v1 conversion with the bot, so if you add the bot to any WhatsApp group then it will leave the group.
+
 ## What’s In This Document
 
 -   [Introduction](#introduction)
@@ -28,7 +30,7 @@ If you want to follow your favorite GitHub User & want to stay updated with thei
 
 To get started, click the following link [**Message**](https://wa.me/message/P6OA32I7W3XKG1) or can also enter the below URL in to your browser `https://wa.me/message/P6OA32I7W3XKG1`
 
-Now check out the [**Commands**](#commands) section for the complete list of commands and their detailed explanation.
+Check out the [**Commands**](#commands) section for the complete list of **public commands** (available for all users) and their detailed explanation.
 
 ## Commands
 
