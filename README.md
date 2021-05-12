@@ -2,11 +2,11 @@
     <img alt="logo" src="./assets/github_octocat.svg" width="160"/>
 </p>
 <h1 align="center">
-GitHub User Activity Feeds for WhatsApp
+GitHub User Activities & Repo Releases Notifier for WhatsApp 
 </h1>
 
 <h4 align="center">
-Follow GitHub Users & get regular updates regarding those user's GitHub public activities right in your WhatsApp.
+Follow GitHub Users to get notified on their public activities & Watch GitHub Repos to get notified on public releases
 </h4>
 
 >   Note: For now, I have only kept the 1v1 conversion with the bot, so if you add the bot to any WhatsApp group then it will leave the group.
@@ -22,7 +22,7 @@ Follow GitHub Users & get regular updates regarding those user's GitHub public a
 
 ## Introduction
 
-If you want to follow your favorite GitHub User & want to stay updated with their GitHub public activities, then this project is a gem for you. Now you can get the direct updates right into your WhatsApp, so you don't miss even a single public activity. Check out the [**Getting Started**](#getting-started) section right now to set the `GitHub User Activity Feed bot for WhatsApp`.
+Want to follow your favorite GitHub Users? So you can stay updated with their GitHub public activities. Or you just want to watch the open-source GitHub repositories so, whenever a new release is published, you get notified, then this project is a gem for you. Now you can get the direct updates right into your WhatsApp, so you don't miss even a single public activity. Check out the [**Getting Started**](#getting-started) section right now to set the `GitHub Public Activities & Releases Notifier for WhatsApp`.
 
 > For now, the source code of this project is private, so if you want to contribute to the source code, feel free to connect with me [here](mailto:dhyeythumar@gmail.com).
 
@@ -34,34 +34,46 @@ Check out the [**Commands**](#commands) section for the complete list of **publi
 
 ## Commands
 
--   `/help` - Get a concise explanation of all the commands.
+-   General
+    -   `/help` - Get a concise explanation of all the commands.
+    -   `/disconnect` - Disconnect the service and clear the chats from the bot end.
+    -   `/clear` - To clear the history from the bot side.
 
--   `/follow` - Follow the GitHub user(s) & get updates.
+-   GitHub User(s)
+    -   `/follow` - Follow the GitHub user(s) & get updates.
+        ```
+        // ---- for example ----
+        /follow @dhyeythumar, @Sentdex, @sindresorhus
+        ```
 
-```
-// ---- for example ----
-/follow @dhyeythumar, @Sentdex, @sindresorhus
-```
+    -   `/unfollow` - Unfollow the GitHub user(s) and, you won't get any further updates for that user(s).
+        ```
+        // ---- for example ----
+        /unfollow @dhyeythumar, @Sentdex, @sindresorhus
+        ```
 
--   `/unfollow` - Unfollow the GitHub user(s) and, you won't get any further updates for that user(s).
+    -   `/following` - Get the list of GitHub user(s) you are following.
 
-```
-// ---- for example ----
-/unfollow @dhyeythumar, @Sentdex, @sindresorhus
-```
-
--   `/following` - Get the list of GitHub user(s) you are following.
-
--   `/disconnect` - Disconnect the service and clear the chats from the bot end.
-
--   `/clear` - Command to clear the history from the bot side.
+- GitHub Repo(s)
+    -   `/watch` - Watch the GitHub repo(s) & get updates whenever a new release is published.
+        ```
+        // ---- for example ----
+        /watch sindresorhus/Gifski, xojs/xo
+        ```
+    
+    -   `/unwatch` - Unwatch the GitHub repo(s) and, you won't get any further updates for that repo(s).<br />
+        ```
+        // ---- for example ----
+        /unwatch sindresorhus/Gifski, xojs/xo
+        ```
+    
+    -   `/watching` - Get the list of GitHub repo(s) you are watching.
 
 ## Future Development
 
 > This section contains the list of features that are scheduled for future release.
 
 -   Take actions when messages/commands went unread (due to offline/sleep-mode of service 😴) so users do not have to resend the messages/commands.
--   Watch command for GitHub repos (this includes releases, tags & commits made to that particular repo).
 
 ## Support the project
 
