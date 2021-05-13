@@ -9,7 +9,9 @@ GitHub User Activities & Repo Releases Notifier for WhatsApp
 Follow GitHub Users to get notified on their public activities & Watch GitHub Repos to get notified on public releases
 </h4>
 
->   Note: For now, I have only kept the 1v1 conversion with the bot, so if you add the bot to any WhatsApp group then it will leave the group.
+>   Note: <br />
+>   -   Only 1v1 conversations are possible with this WhatsApp bot because **following any particular GitHub User** or **watching any particular GitHub repo** is a personal choice. So by having this bot on a Whatapp group conversation doesn't make any sense.
+>   -   But still, if WhatsApp users want to add this bot to WhatsApp groups then you can open a **Discussion** in this repo. And will decide what to do based on the votes.
 
 ## What’s In This Document
 
@@ -58,13 +60,13 @@ Check out the [**Commands**](#commands) section for the complete list of **publi
     -   `/watch` - Watch the GitHub repo(s) & get updates whenever a new release is published.
         ```
         // ---- for example ----
-        /watch sindresorhus/Gifski, xojs/xo
+        /watch Unity-Technologies/ml-agents, sindresorhus/Gifski, xojs/xo
         ```
     
     -   `/unwatch` - Unwatch the GitHub repo(s) and, you won't get any further updates for that repo(s).<br />
         ```
         // ---- for example ----
-        /unwatch sindresorhus/Gifski, xojs/xo
+        /unwatch Unity-Technologies/ml-agents, sindresorhus/Gifski, xojs/xo
         ```
     
     -   `/watching` - Get the list of GitHub repo(s) you are watching.
