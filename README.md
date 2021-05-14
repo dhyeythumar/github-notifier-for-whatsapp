@@ -10,8 +10,8 @@ Follow GitHub Users to get notified on their public activities & Watch GitHub Re
 </h4>
 
 >   Note: <br />
->   -   Only 1v1 conversations are possible with this WhatsApp bot because **following any particular GitHub User** or **watching any particular GitHub repo** is a personal choice. So by having this bot on a Whatapp group conversation doesn't make any sense.
->   -   But still, if WhatsApp users want to add this bot to WhatsApp groups then you can open a **Discussion** in this repo. And will decide what to do based on the votes.
+>   -   Check out the status of the services [**here**](https://github-notifier.statuspage.io/). And do subscribe to stay in the loop with new incidences such as critical system failure or scheduled maintenance as they would be reported over there.
+>   -   Only 1v1 conversations are possible with this WhatsApp bot because **following any particular GitHub User** or **watching any particular GitHub repo** is a personal choice. So by having this bot on a Whatapp group conversation doesn't make any sense. But still, if WhatsApp users want to add this bot to WhatsApp groups then you can open a **Discussion** in this repo. And will decide what to do based on the votes.
 
 ## What’s In This Document
 
