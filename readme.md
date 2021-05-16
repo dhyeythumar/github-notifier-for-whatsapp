@@ -9,9 +9,11 @@ GitHub User Activities & Repo Releases Notifier for WhatsApp
 Follow GitHub Users to get notified on their public activities & Watch GitHub Repos to get notified on public releases
 </h4>
 
->   Note: <br />
->   -   Check out the status of the services [**here**](https://github-notifier.statuspage.io/). And do subscribe to stay in the loop with new incidences such as critical system failure or scheduled maintenance as they would be reported over there.
->   -   Only 1v1 conversations are possible with this WhatsApp bot because **following any particular GitHub User** or **watching any particular GitHub repo** is a personal choice. So by having this bot on a Whatapp group conversation doesn't make any sense. But still, if WhatsApp users want to add this bot to WhatsApp groups then you can open a **Discussion** in this repo. And will decide what to do based on the votes.
+> Note:
+>
+> -   Check out the status of the services [**here**](https://github-notifier.statuspage.io/). And do subscribe to stay in the loop with new incidences such as critical system failure or scheduled maintenance as they would be reported over there.
+> -   Check out the project's [**changelog**](./changelog.md) to know more on how the project is progressing.
+> -   Only 1v1 conversations are possible with this WhatsApp bot because **following any particular GitHub User** or **watching any particular GitHub repo** is a personal choice. So by having this bot on a Whatapp group conversation doesn't make any sense. But still, if WhatsApp users want to add this bot to WhatsApp groups then you can open a **Discussion** in this repo. And will decide what to do based on the votes.
 
 ## What’s In This Document
 
@@ -37,18 +39,22 @@ Check out the [**Commands**](#commands) section for the complete list of **publi
 ## Commands
 
 -   General
+
     -   `/help` - Get a concise explanation of all the commands.
     -   `/disconnect` - Disconnect the service and clear the chats from the bot end.
     -   `/clear` - To clear the history from the bot side.
 
 -   GitHub User(s)
+
     -   `/follow` - Follow the GitHub user(s) & get updates.
+
         ```
         // ---- for example ----
         /follow @dhyeythumar, @Sentdex, @sindresorhus
         ```
 
     -   `/unfollow` - Unfollow the GitHub user(s) and, you won't get any further updates for that user(s).
+
         ```
         // ---- for example ----
         /unfollow @dhyeythumar, @Sentdex, @sindresorhus
@@ -56,19 +62,22 @@ Check out the [**Commands**](#commands) section for the complete list of **publi
 
     -   `/following` - Get the list of GitHub user(s) you are following.
 
-- GitHub Repo(s)
+-   GitHub Repo(s)
+
     -   `/watch` - Watch the GitHub repo(s) & get updates whenever a new release is published.
+
         ```
         // ---- for example ----
         /watch Unity-Technologies/ml-agents, sindresorhus/Gifski, xojs/xo
         ```
-    
+
     -   `/unwatch` - Unwatch the GitHub repo(s) and, you won't get any further updates for that repo(s).<br />
+
         ```
         // ---- for example ----
         /unwatch Unity-Technologies/ml-agents, sindresorhus/Gifski, xojs/xo
         ```
-    
+
     -   `/watching` - Get the list of GitHub repo(s) you are watching.
 
 ## Future Development
