@@ -1,3 +1,6 @@
+# Version 2.4.0
+**Now the users don't have to resend the messages which went unseen & unreplied when the bot was offline.** These messages will be used and acted upon once the bot comes online.
+
 # Version 2.3.0
 
 Introducing **Redis** for caching the commands that access the main database (such as follow, unfollow, following, watch, unwatch, watching, disconnect). Now by this feature system won't frequently access the main database and can directly access the cached requests from the WhatsApp users. **And this can also help in avoiding system abuse (like sending the same command, again and again, that won't have any effects on the main database after the first request is processed successfully).**
