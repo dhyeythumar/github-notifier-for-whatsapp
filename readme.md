@@ -82,9 +82,12 @@ Check out the [**Commands**](#commands) section for the complete list of **publi
 
 ## Future Development
 
-> This section contains the list of features that are scheduled for future release.
+> This section contains the list of features that are scheduled for future release & the list of completed features
 
--   Take actions when messages/commands went unread (due to offline/sleep-mode of service 😴) so users do not have to resend the messages/commands.
+-   [x] Add **Watch, Unwatch, Watching** feature on GitHub Repos so WhatsApp users can stay updated (notified) whenever there is a new release in a watched repo. [Version 2.0.0](https://github.com/dhyeythumar/github-notifier-for-whatsapp/blob/main/changelog.md#version-200-major-changes)
+-   [x] Setup the status page so the bot users can be notified for every incident (failure/maintenance) with the services. [Version 2.2.0](https://github.com/dhyeythumar/github-notifier-for-whatsapp/blob/main/changelog.md#version-220)
+-   [x] Add Redis for caching the commands to save the system/service from any abuse & saving any redundant requests to the database. [Version 2.3.0](https://github.com/dhyeythumar/github-notifier-for-whatsapp/blob/main/changelog.md#version-230)
+-   [x] Take actions when messages/commands went unread (due to offline/sleep-mode of service 😴) so users do not have to resend the messages/commands. [Version 2.4.0](https://github.com/dhyeythumar/github-notifier-for-whatsapp/blob/main/changelog.md#version-240)
 
 ## Support the project
 
