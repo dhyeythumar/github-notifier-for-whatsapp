@@ -23,6 +23,7 @@ Follow GitHub Users to get notified on their public activities & Watch GitHub Re
 -   [Future Development](#future-development)
 -   [Support the project](#support-the-project)
 -   [License](#license)
+-   [Legal](#legal)
 
 ## Introduction
 
@@ -103,5 +104,10 @@ Contributions are welcome! ✌
 ## License
 
 Licensed under the [MIT License](./LICENSE).
+
+## Legal
+
+This service is in no way affiliated with, authorized, maintained, sponsored or endorsed by WhatsApp & GitHub or any of its affiliates or subsidiaries. This is an independent and unofficial service.
+
 
 ![visitors](https://page-views.glitch.me/badge?page_id=dhyeythumar.github-user-activity-feeds-for-whatsapp)
