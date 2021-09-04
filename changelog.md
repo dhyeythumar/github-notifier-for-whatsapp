@@ -1,3 +1,6 @@
+# Version 2.5.0
+**Automated the Statuspage incident publishing & updating pipeline.** An incident will be automatically published whenever there is a crash in a particular service (this also avoids duplicate incidents). And whenever that service comes back online (can be a self-recovery also) the unresolved incident will be changed to resolve state.
+
 # Version 2.4.0
 **Now the users don't have to resend the messages which went unseen & unreplied when the bot was offline.** These messages will be used and acted upon once the bot comes online.
 
